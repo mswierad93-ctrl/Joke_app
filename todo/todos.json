@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Learn Node.js",
+      "description": "Complete a Node.js tutorial and build a project",
+      "priority": "High",
+      "completed": false,
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 2,
+      "title": "Buy groceries",
+      "description": "Milk, eggs, bread, and vegetables",
+      "priority": "Low",
+      "completed": false,
+      "createdAt": "2026-07-01T00:00:00.000Z",
+      "completedAt": null
+    },
+    {
+      "id": 3,
+      "title": "Finish project documentation",
+      "description": "Write README and API documentation",
+      "priority": "High",
+      "completed": true,
+      "createdAt": "2026-06-30T00:00:00.000Z",
+      "completedAt": "2026-07-01T00:00:00.000Z"
+    }
+  ]
+}
