@@ -1,0 +1,25 @@
+{
+  "name": "joke-app",
+  "version": "1.0.0",
+  "description": "A CLI tool for managing and sharing jokes",
+  "main": "index.js",
+  "bin": {
+    "joke": "index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.5"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "joke",
+    "cli",
+    "humor"
+  ],
+  "author": "",
+  "license": "MIT"
+}
