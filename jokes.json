@@ -1,0 +1,22 @@
+{
+  "jokes": [
+    {
+      "id": 1,
+      "text": "Why don't scientists trust atoms? Because they make up everything!",
+      "category": "science",
+      "author": "system"
+    },
+    {
+      "id": 2,
+      "text": "Why did the scarecrow win an award? He was outstanding in his field!",
+      "category": "puns",
+      "author": "system"
+    },
+    {
+      "id": 3,
+      "text": "What do you call a fake noodle? An impasta!",
+      "category": "puns",
+      "author": "system"
+    }
+  ]
+}
